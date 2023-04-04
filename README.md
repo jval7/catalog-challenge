@@ -1,5 +1,5 @@
 # Catalog API
-This is a RESTful API for managing books and their pages. It is built using FastAPI, SQLAlchemy, Black, and Pytest.
+This is a RESTful API for managing products. It is built using FastAPI, SQLAlchemy, Black, and Pytest.
 The architecture of the project is based on Event Driven Architecture (EDA).
 
 ## Some architectural decisions:
